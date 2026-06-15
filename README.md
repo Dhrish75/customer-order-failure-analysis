@@ -84,24 +84,6 @@ The dataset contains:
 ### Cancellation Patterns
 - Driver cancellations tend to cluster during specific time windows.
 
----
-
-## Sample Visualizations
-
-### Failed Orders by Hour
-
-(Add chart screenshot here)
-
-### Failure Type Distribution
-
-(Add chart screenshot here)
-
-### Failure Proportion by Hour
-
-(Add chart screenshot here)
-
----
-
 ## Future Improvements
 
 - Predictive modeling for order failures
